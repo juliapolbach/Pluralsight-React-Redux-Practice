@@ -6,6 +6,7 @@ import * as courseActions from '../../actions/courseActions';
 class CoursesPage extends React.Component {
   constructor(props, context) {
     super(props, context);
+
   }
 
   courseRow(course, index){
